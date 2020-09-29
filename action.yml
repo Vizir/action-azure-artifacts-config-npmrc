@@ -1,5 +1,5 @@
 name: 'Azure Artifacts .npmrc configuration'
-description: 'action-azure-artifacts-config-npmrc'
+description: 'Github Action that configures the .npmrc for accessing private packages published on Azure Artifacts'
 inputs:
   feeds:
     description: 'Comma separated list of feeds'
